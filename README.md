@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋 Hi, I'm @yjungs2
+- 🌱 I’m currently learning Python & Data Analysis
 
 <!--
 **yjungs2/yjungs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
