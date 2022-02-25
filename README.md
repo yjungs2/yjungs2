@@ -1,4 +1,4 @@
-### 👋 Hi, I'm @yjungs2
+### 👋 Hi, I'm @yjungs2 👩‍💻
 - 🌱 I’m currently learning Python & Data Analysis
 - 💻 I have experience with C, Matlab, Java.
 - 🇰🇷 I'm from Korea
