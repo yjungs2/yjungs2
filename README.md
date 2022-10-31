@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjungs2%2Fhit-counter&count_bg=%2324A6BD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ### ✨ Stacks ✨
-#### 💻 Languages & Frameworks 📚
+#### 💻 Languages & Frameworks 💻
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google%20colab&logoColor=white)
@@ -38,15 +38,16 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### 💫 Project 💫
-✅ [Drip;Drama Trip](https://github.com/Multi-Drip/Drip)
-✅ [여행가실 부은](https://github.com/ssy0061/MyBusanTripInfo)
+✅ [Drip(Drama Trip) : 드라마 촬영지 정보 제공 웹 서비스](https://github.com/Multi-Drip/Drip)
+  
+✅ [여행가실 부은 : 우리들의 여행을 기록하는 새로운 방법](https://github.com/ssy0061/MyBusanTripInfo)
 
 ### 🖤 My GitHub 🖤
 ![yjungs2's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjungs2&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjungs2&layout=compact)  
 
 ### 💡 Algorithm 💡
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=studyc0de)](https://solved.ac/studyc0de/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=studyc0de)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=studyc0de&theme=dark)
   
 <!--
