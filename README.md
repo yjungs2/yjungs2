@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=24A6BD&fontColor=005E75&height=120&section=header&text=Welcome%20to%20@yjungs2%20GitHub&fontSize=30)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjungs2%2Fhit-counter&count_bg=%2324A6BD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 ### ✨ Stacks ✨
 #### 💻 Languages & Frameworks 💻
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
