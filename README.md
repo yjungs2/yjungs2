@@ -37,6 +37,8 @@
   
 ✅ [여행가실 부은 : 우리들의 여행을 기록하는 새로운 방법](https://github.com/ssy0061/MyBusanTripInfo)
 
+✅ [PerpetCare : 펫 시터 매칭 서비스](https://github.com/yjungs2/mavenP_PerpetCare.git)
+
 ### 🖤 My GitHub 🖤
 ![yjungs2's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjungs2&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjungs2&layout=compact)  
