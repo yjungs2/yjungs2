@@ -1,16 +1,15 @@
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=24A6BD&fontColor=005E75&height=120&section=header&text=Hi,%20I'm%20yjungs2&fontSize=30)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=24A6BD&fontColor=005E75&height=120&section=header&text=@yjungs2%20GitHub&fontSize=30)
+## 💻 Languages and Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
-### ✨ Stacks ✨
-#### 💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apache%20tomcat&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -18,31 +17,34 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-#### 💬 Collaboration Tools
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
   
-### ✏️ Want to Learn ✏️
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+Want to Learn ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 💫 Project 💫
-✅ [Drip(Drama Trip) : 드라마 촬영지 정보 제공 웹 서비스](https://github.com/Multi-Drip/Drip)
+<br>
+
+## 💫 Project
+🎥 [Drip(Drama Trip) : 드라마 촬영지 정보 제공 웹 서비스](https://github.com/Multi-Drip/Drip)
   
-✅ [여행가실 부은 : 우리들의 여행을 기록하는 새로운 방법](https://github.com/ssy0061/MyBusanTripInfo)
+✈️ [여행가실 부은 : 우리들의 여행을 기록하는 새로운 방법](https://github.com/ssy0061/MyBusanTripInfo)
 
-✅ [PerpetCare : 펫 시터 매칭 서비스](https://github.com/yjungs2/mavenP_PerpetCare.git)
+🐕 [PerpetCare : 펫 시터 매칭 서비스](https://github.com/yjungs2/mavenP_PerpetCare.git)
 
-### 🖤 My GitHub 🖤
+<br>
+
+## 🖤 My GitHub
 ![yjungs2's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjungs2&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjungs2&layout=compact)  
+<br>
 
-### 💡 Algorithm 💡
+## 💡 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=studyc0de)](https://solved.ac/studyc0de)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=studyc0de&theme=dark)
   
@@ -59,4 +61,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 </div>
